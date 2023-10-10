@@ -1,0 +1,684 @@
+##################
+Residue 158
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 7.7732e-04
+    reduced chi-square = 8.6369e-05
+    Akaike info crit   = -101.133103
+    Bayesian info crit = -100.337312
+[[Variables]]
+    eta:    18.2295737 +/- 1.21790723 (6.68%) (init = 50)
+    delta: -11.6628704 +/- 3.55466744 (30.48%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9483
+
+##################
+Residue 166
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00115770
+    reduced chi-square = 1.2863e-04
+    Akaike info crit   = -96.7513826
+    Bayesian info crit = -95.9555920
+[[Variables]]
+    eta:    28.8115872 +/- 1.34021136 (4.65%) (init = 50)
+    delta: -3.34626672 +/- 2.19644479 (65.64%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9313
+
+##################
+Residue 179
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00121595
+    reduced chi-square = 1.3511e-04
+    Akaike info crit   = -96.2113942
+    Bayesian info crit = -95.4156037
+[[Variables]]
+    eta:    79.1742013 +/- 2.15401877 (2.72%) (init = 50)
+    delta: -15.0300457 +/- 1.47088445 (9.79%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8208
+
+##################
+Residue 190
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00706095
+    reduced chi-square = 7.8455e-04
+    Akaike info crit   = -76.8617860
+    Bayesian info crit = -76.0659955
+[[Variables]]
+    eta:    93.9990380 +/- 6.30025755 (6.70%) (init = 50)
+    delta: -24.2166417 +/- 4.16397186 (17.19%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8246
+
+##################
+Residue 191
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00136909
+    reduced chi-square = 1.5212e-04
+    Akaike info crit   = -94.9065247
+    Bayesian info crit = -94.1107341
+[[Variables]]
+    eta:    78.8368526 +/- 2.23457173 (2.83%) (init = 50)
+    delta: -13.2861449 +/- 1.49671563 (11.27%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8136
+
+##################
+Residue 195
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.01266722
+    reduced chi-square = 0.00140747
+    Akaike info crit   = -70.4329670
+    Bayesian info crit = -69.6371765
+[[Variables]]
+    eta:    58.6497059 +/- 5.83968404 (9.96%) (init = 50)
+    delta: -11.7385939 +/- 5.07386775 (43.22%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8679
+
+##################
+Residue 211
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00729832
+    reduced chi-square = 8.1092e-04
+    Akaike info crit   = -76.4980765
+    Bayesian info crit = -75.7022859
+[[Variables]]
+    eta:    92.9247873 +/- 6.36133839 (6.85%) (init = 50)
+    delta: -24.1753772 +/- 4.24330459 (17.55%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8267
+
+##################
+Residue 213
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 19
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00604969
+    reduced chi-square = 6.7219e-04
+    Akaike info crit   = -78.5620872
+    Bayesian info crit = -77.7662967
+[[Variables]]
+    eta:    130.973046 +/- 7.56254715 (5.77%) (init = 50)
+    delta: -29.4730804 +/- 4.10083994 (13.91%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.7808
+
+##################
+Residue 214
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 22
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.02197425
+    reduced chi-square = 0.00244158
+    Akaike info crit   = -64.3735735
+    Bayesian info crit = -63.5777829
+[[Variables]]
+    eta:    97.9724487 +/- 11.6228231 (11.86%) (init = 50)
+    delta: -26.3231277 +/- 7.60981592 (28.91%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8252
+
+##################
+Residue 242
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 19
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00841471
+    reduced chi-square = 9.3497e-04
+    Akaike info crit   = -74.9323675
+    Bayesian info crit = -74.1365769
+[[Variables]]
+    eta:    96.9732096 +/- 6.60587765 (6.81%) (init = 50)
+    delta: -18.4422649 +/- 3.96543692 (21.50%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.7907
+
+##################
+Residue 268
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00585574
+    reduced chi-square = 6.5064e-04
+    Akaike info crit   = -78.9205056
+    Bayesian info crit = -78.1247150
+[[Variables]]
+    eta:    50.9572689 +/- 3.29296576 (6.46%) (init = 50)
+    delta: -1.96110133 +/- 2.87578363 (146.64%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8632
+
+##################
+Residue 282
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00466636
+    reduced chi-square = 5.1848e-04
+    Akaike info crit   = -81.4179918
+    Bayesian info crit = -80.6222013
+[[Variables]]
+    eta:    97.8422469 +/- 4.81925667 (4.93%) (init = 50)
+    delta: -15.8670113 +/- 2.78301825 (17.54%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.7740
+
+##################
+Residue 306
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 19
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00383078
+    reduced chi-square = 4.2564e-04
+    Akaike info crit   = -83.5883963
+    Bayesian info crit = -82.7926057
+[[Variables]]
+    eta:    73.0240585 +/- 3.50015621 (4.79%) (init = 50)
+    delta: -11.1113923 +/- 2.44032916 (21.96%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8212
+
+##################
+Residue 310
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00228072
+    reduced chi-square = 2.5341e-04
+    Akaike info crit   = -89.2927517
+    Bayesian info crit = -88.4969611
+[[Variables]]
+    eta:    92.8565674 +/- 3.45560607 (3.72%) (init = 50)
+    delta: -21.4380271 +/- 2.23043404 (10.40%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8152
+
+##################
+Residue 336
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00116412
+    reduced chi-square = 1.2935e-04
+    Akaike info crit   = -96.6905308
+    Bayesian info crit = -95.8947402
+[[Variables]]
+    eta:    30.2712907 +/- 1.35449900 (4.47%) (init = 50)
+    delta: -3.51572095 +/- 2.11026321 (60.02%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9284
+
+##################
+Residue 361
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 19
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.01448973
+    reduced chi-square = 0.00160997
+    Akaike info crit   = -68.9543133
+    Bayesian info crit = -68.1585227
+[[Variables]]
+    eta:    84.4862831 +/- 9.45179666 (11.19%) (init = 50)
+    delta: -33.9010304 +/- 7.70291687 (22.72%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8737
+
+##################
+Residue 364
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.02014550
+    reduced chi-square = 0.00223839
+    Akaike info crit   = -65.3293637
+    Bayesian info crit = -64.5335732
+[[Variables]]
+    eta:    99.7748265 +/- 10.2855076 (10.31%) (init = 50)
+    delta: -17.2787662 +/- 5.95101354 (34.44%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.7773
+
+##################
+Residue 389
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00154809
+    reduced chi-square = 1.7201e-04
+    Akaike info crit   = -93.5548942
+    Bayesian info crit = -92.7591037
+[[Variables]]
+    eta:    88.0040576 +/- 2.49144183 (2.83%) (init = 50)
+    delta: -11.9230774 +/- 1.49111875 (12.51%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.7783
+
+##################
+Residue 401
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 5.0210e-04
+    reduced chi-square = 5.5789e-05
+    Akaike info crit   = -105.940591
+    Bayesian info crit = -105.144800
+[[Variables]]
+    eta:    32.0263789 +/- 0.89174211 (2.78%) (init = 50)
+    delta: -3.25782555 +/- 1.30354356 (40.01%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9244
+
+##################
+Residue 415
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00146789
+    reduced chi-square = 1.6310e-04
+    Akaike info crit   = -94.1400721
+    Bayesian info crit = -93.3442816
+[[Variables]]
+    eta:    56.6955913 +/- 1.90467763 (3.36%) (init = 50)
+    delta: -9.49620003 +/- 1.65977665 (17.48%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8670
+
+##################
+Residue 471
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 19
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00794516
+    reduced chi-square = 8.8280e-04
+    Akaike info crit   = -75.5639679
+    Bayesian info crit = -74.7681774
+[[Variables]]
+    eta:    75.3923511 +/- 4.87738754 (6.47%) (init = 50)
+    delta: -7.07057586 +/- 3.12533198 (44.20%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.7919
+
+##################
+Residue 494
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00193292
+    reduced chi-square = 2.1477e-04
+    Akaike info crit   = -91.1128014
+    Bayesian info crit = -90.3170109
+[[Variables]]
+    eta:    66.6754673 +/- 2.40745626 (3.61%) (init = 50)
+    delta: -11.9401988 +/- 1.84946465 (15.49%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8446
+
+##################
+Residue 507
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00149021
+    reduced chi-square = 1.6558e-04
+    Akaike info crit   = -93.9740728
+    Bayesian info crit = -93.1782823
+[[Variables]]
+    eta:    58.8116755 +/- 1.98550141 (3.38%) (init = 50)
+    delta: -11.0176330 +/- 1.70331161 (15.46%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8652
+
+##################
+Residue 514
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 25
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.06553148
+    reduced chi-square = 0.00728128
+    Akaike info crit   = -52.3543188
+    Bayesian info crit = -51.5585282
+[[Variables]]
+    eta:    95.7708209 +/- 19.7751196 (20.65%) (init = 50)
+    delta: -26.1231714 +/- 13.1645128 (50.39%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8287
+
+##################
+Residue 522
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00626632
+    reduced chi-square = 6.9626e-04
+    Akaike info crit   = -78.1750806
+    Bayesian info crit = -77.3792901
+[[Variables]]
+    eta:    93.1057635 +/- 5.86866298 (6.30%) (init = 50)
+    delta: -23.6435761 +/- 3.88295829 (16.42%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8242
+
+##################
+Residue 529
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00186251
+    reduced chi-square = 2.0695e-04
+    Akaike info crit   = -91.5210034
+    Bayesian info crit = -90.7252128
+[[Variables]]
+    eta:    61.2390313 +/- 2.15634061 (3.52%) (init = 50)
+    delta: -7.72431562 +/- 1.69687638 (21.97%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8461
+
+##################
+Residue 550
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00107644
+    reduced chi-square = 1.1960e-04
+    Akaike info crit   = -97.5519114
+    Bayesian info crit = -96.7561208
+[[Variables]]
+    eta:    38.0280665 +/- 1.35812811 (3.57%) (init = 50)
+    delta: -4.12484420 +/- 1.67007676 (40.49%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9104
+
+##################
+Residue 552
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00335573
+    reduced chi-square = 3.7286e-04
+    Akaike info crit   = -85.0447927
+    Bayesian info crit = -84.2490022
+[[Variables]]
+    eta:    77.8441787 +/- 3.45532121 (4.44%) (init = 50)
+    delta: -12.8049730 +/- 2.32574946 (18.16%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8143
+
+##################
+Residue 187
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 4.0453e-04
+    reduced chi-square = 4.4948e-05
+    Akaike info crit   = -108.317516
+    Bayesian info crit = -107.521726
+[[Variables]]
+    eta:    28.9273448 +/- 0.85823596 (2.97%) (init = 50)
+    delta: -8.38080922 +/- 1.49209512 (17.80%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9338
+
+##################
+Residue 192
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00280444
+    reduced chi-square = 3.1160e-04
+    Akaike info crit   = -87.0189242
+    Bayesian info crit = -86.2231337
+[[Variables]]
+    eta:    58.0443343 +/- 3.40536761 (5.87%) (init = 50)
+    delta: -28.4876196 +/- 3.71850196 (13.05%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9053
+
+##################
+Residue 221
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00229850
+    reduced chi-square = 2.5539e-04
+    Akaike info crit   = -89.2073109
+    Bayesian info crit = -88.4115203
+[[Variables]]
+    eta:    67.9980356 +/- 3.72371895 (5.48%) (init = 50)
+    delta: -40.4523122 +/- 4.01300393 (9.92%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9092
+
+##################
+Residue 330
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 9.0247e-04
+    reduced chi-square = 1.0027e-04
+    Akaike info crit   = -99.4909252
+    Bayesian info crit = -98.6951347
+[[Variables]]
+    eta:    45.7669545 +/- 1.71732038 (3.75%) (init = 50)
+    delta: -23.8621655 +/- 2.24951688 (9.43%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9187
+
+##################
+Residue 331
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 19
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.01061626
+    reduced chi-square = 0.00117958
+    Akaike info crit   = -72.3758997
+    Bayesian info crit = -71.5801091
+[[Variables]]
+    eta:    69.2435626 +/- 7.60879947 (10.99%) (init = 50)
+    delta: -35.4609304 +/- 7.60724369 (21.45%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.8999
+
+##################
+Residue 355
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 10
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00604799
+    reduced chi-square = 6.7200e-04
+    Akaike info crit   = -78.5651791
+    Bayesian info crit = -77.7693885
+[[Variables]]
+    eta:    45.1075839 +/- 3.62431034 (8.03%) (init = 50)
+    delta: -9.62905393 +/- 4.00692492 (41.61%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9003
+
+##################
+Residue 370
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 13
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 0.00263038
+    reduced chi-square = 2.9226e-04
+    Akaike info crit   = -87.7237308
+    Bayesian info crit = -86.9279403
+[[Variables]]
+    eta:    47.8990867 +/- 2.93334374 (6.12%) (init = 50)
+    delta: -23.1949851 +/- 3.63798956 (15.68%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9145
+
+##################
+Residue 380
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 2.2852e-04
+    reduced chi-square = 2.5391e-05
+    Akaike info crit   = -114.599778
+    Bayesian info crit = -113.803987
+[[Variables]]
+    eta:    15.1507166 +/- 0.66482180 (4.39%) (init = 50)
+    delta: -12.4432970 +/- 2.36431855 (19.00%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9508
+
+##################
+Residue 391
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 5.6496e-05
+    reduced chi-square = 6.2773e-06
+    Akaike info crit   = -129.971652
+    Bayesian info crit = -129.175862
+[[Variables]]
+    eta:    16.1044399 +/- 0.31773829 (1.97%) (init = 50)
+    delta: -9.79873501 +/- 1.03061551 (10.52%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9502
+
+##################
+Residue 574
+##################
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 16
+    # data points      = 11
+    # variables        = 2
+    chi-square         = 1.8107e-04
+    reduced chi-square = 2.0119e-05
+    Akaike info crit   = -117.159812
+    Bayesian info crit = -116.364022
+[[Variables]]
+    eta:    16.3283610 +/- 0.55551105 (3.40%) (init = 50)
+    delta: -8.26691669 +/- 1.74600862 (21.12%) (init = -10)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(eta, delta) = -0.9500
+

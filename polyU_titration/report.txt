@@ -1,0 +1,58 @@
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 71
+    # data points      = 48
+    # variables        = 9
+    chi-square         = 3.5003e+22
+    reduced chi-square = 8.9752e+20
+    Akaike info crit   = 2323.84945
+    Bayesian info crit = 2340.69025
+[[Variables]]
+    K:              59951.6457 +/- 6445.41059 (10.75%) (init = 1500)
+    I0_M221_free:   4.5730e+11 +/- 2.0447e+10 (4.47%) (init = 3e+11)
+    I0_M221_bound:  6.4516e+11 +/- 2.8461e+10 (4.41%) (init = 3e+11)
+    I0_M352_bound:  5.6906e+11 +/- 2.7435e+10 (4.82%) (init = 3e+11)
+    I0_M355_free:   5.1758e+11 +/- 2.0660e+10 (3.99%) (init = 3e+11)
+    I0_M370_free:   4.1210e+11 +/- 2.0304e+10 (4.93%) (init = 3e+11)
+    I0_M370_bound:  4.0939e+11 +/- 2.5606e+10 (6.25%) (init = 3e+11)
+    I0_M380_free:   7.8013e+11 +/- 2.1852e+10 (2.80%) (init = 3e+11)
+    I0_M380_bound:  3.6032e+11 +/- 2.5144e+10 (6.98%) (init = 3e+11)
+[[Correlations]] (unreported correlations are < 0.100)
+    C(K, I0_M221_bound)             = -0.5648
+    C(K, I0_M352_bound)             = -0.5168
+    C(K, I0_M380_free)              = +0.4355
+    C(K, I0_M370_bound)             = -0.3984
+    C(K, I0_M380_bound)             = -0.3571
+    C(K, I0_M355_free)              = +0.3056
+    C(I0_M221_bound, I0_M352_bound) = +0.2919
+    C(K, I0_M221_free)              = +0.2728
+    C(K, I0_M370_free)              = +0.2476
+    C(I0_M221_bound, I0_M380_free)  = -0.2460
+    C(I0_M352_bound, I0_M380_free)  = -0.2251
+    C(I0_M221_bound, I0_M370_bound) = +0.2250
+    C(I0_M352_bound, I0_M370_bound) = +0.2059
+    C(I0_M221_bound, I0_M380_bound) = +0.2017
+    C(I0_M352_bound, I0_M380_bound) = +0.1846
+    C(I0_M370_bound, I0_M380_free)  = -0.1735
+    C(I0_M221_bound, I0_M355_free)  = -0.1726
+    C(I0_M352_bound, I0_M355_free)  = -0.1579
+    C(I0_M380_free, I0_M380_bound)  = -0.1555
+    C(I0_M221_free, I0_M221_bound)  = -0.1541
+    C(I0_M370_bound, I0_M380_bound) = +0.1423
+    C(I0_M221_free, I0_M352_bound)  = -0.1410
+    C(I0_M221_bound, I0_M370_free)  = -0.1398
+    C(I0_M355_free, I0_M380_free)   = +0.1331
+    C(I0_M352_bound, I0_M370_free)  = -0.1280
+    C(I0_M355_free, I0_M370_bound)  = -0.1217
+    C(I0_M221_free, I0_M380_free)   = +0.1188
+    C(I0_M355_free, I0_M380_bound)  = -0.1091
+    C(I0_M221_free, I0_M370_bound)  = -0.1087
+    C(I0_M370_free, I0_M380_free)   = +0.1078
+
+##################
+Parameters from the Monte Carlo error analysis
+##################
+
+K = 59951.645706016876 (M^-1)
+K_std = 6445.410592758729 (M^-1)
+K_MC = 5946.04949528055 (M^-1)
